@@ -1,0 +1,146 @@
+[
+  {
+    "nombre": "Carmen Mendoza",
+    "profesion": "Seguros",
+    "ciudad": "Maldonado",
+    "email": "cmendoza@mgnseguros.com",
+    "telefono": "+598 96 492 255",
+    "foto":"https://cdn.pixabay.com/photo/2024/05/26/11/40/business-8788632_1280.jpg"
+  },
+  {
+    "nombre": "Ana Mendoza",
+    "profesion": "Medicina",
+    "ciudad": "Montevideo",
+    "email": "ana@salud.com",
+    "telefono": "+598 91 222 333",
+    "foto":"https://cdn.pixabay.com/photo/2024/02/10/04/07/ai-generated-8564085_1280.png"
+  },
+  {
+    "nombre": "Luis Fernández",
+    "profesion": "Abogacia",
+    "ciudad": "Maldonado",
+    "email": "luis@leyes.com",
+    "telefono": "+598 93 444 555",
+    "foto":"https://cdn.pixabay.com/photo/2015/08/03/00/04/alejandro-vergara-blanco-872557_1280.jpg"
+  },
+  {
+    "nombre": "Carlos Pérez",
+    "profesion": "Abogacia",
+    "ciudad": "Maldonado",
+    "email": "carlos@legal.com",
+    "telefono": "+598 96 215 485",
+    "foto":"https://cdn.pixabay.com/photo/2022/04/10/16/42/lawyer-7123799_1280.jpg"
+  },
+  {
+    "nombre": "Lucía Torres",
+    "profesion": "Arquitectura",
+    "ciudad": "Punta del Este",
+    "email": "lucia@arquitectura.com",
+    "telefono": "+598 94 123 456",
+    "foto":"https://media.istockphoto.com/id/471101641/photo/architect.webp?s=2048x2048&w=is&k=20&c=1ZoEZvdHKVkiDbZXiAps0wJONY5jJgu4lfQ9m9h_fGU="
+  },
+  {
+    "nombre": "Mateo Fernández",
+    "profesion": "Medicina Pediatrica",
+    "ciudad": "Maldonado",
+    "email": "mateo@medico.com",
+    "telefono": "+598 94 568 975",
+    "foto":"https://cdn.pixabay.com/photo/2024/09/03/15/21/ai-generated-9019520_1280.png"
+  },
+  {
+    "nombre": "Sofía García",
+    "profesion": "Diseño Gráfico",
+    "ciudad": "Montevideo",
+    "email": "sofia@diseño.com",
+    "telefono": "+598 93 651 427",
+    "foto":"https://cdn.pixabay.com/photo/2022/11/21/15/31/business-7607339_1280.jpg"
+  },
+  {
+    "nombre": "Lic. José Pérez",
+    "categoria": "Psicología",
+    "ciudad": "Salto",
+    "email": "licjose@saludprepaga.com",
+    "telefono": "+598 98 465 754",
+    "foto":"https://cdn.pixabay.com/photo/2019/10/14/19/59/psychologist-4549891_1280.jpg"
+  },
+  {
+    "nombre": "Ing. Laura Fernández",
+    "categoria": "Ingeniería Civil",
+    "ciudad": "Paysandú",
+    "email": "lucia@diseño.com",
+    "telefono": "+598 94 123 456",
+    "foto":"https://cdn.pixabay.com/photo/2020/03/17/15/41/engineer-4940833_1280.jpg"
+  },
+   {
+    "nombre": "Doc. David Alejandro Saltos",
+    "categoria": "Doctor cardiologo",
+    "ciudad": "Montevideo",
+    "email": "dasaltos@cardiosalud.com",
+    "telefono": "+598 96 546 324",
+    "foto":"https://cdn.pixabay.com/photo/2024/09/03/15/21/ai-generated-9019518_1280.png"
+  },
+   {
+    "nombre": "Doctor Pedro Gómez", 
+    "categoria": "medicina", 
+    "email": "pedro@docmedgeneral.com",
+    "telefono": "+598 95 212 465",
+    "foto":"https://media.istockphoto.com/id/2205091219/photo/portrait-of-smiling-doctor-with-folded-arms-and-stethoscope.webp?s=2048x2048&w=is&k=20&c=IwHdd3VptmDvxOyuuoIzuYC9BAkGmmBn2fRc5jS5gx4="
+  }
+  ,
+  {
+    "nombre": "Mario Rodríguez",
+    "profesion": "Contador",
+    "ciudad": "Colonia",
+    "email": "mario@conta.com",
+    "telefono": "+598 92 456 789",
+    "foto":"https://cdn.pixabay.com/photo/2023/04/28/23/32/ai-generated-7957457_1280.png"
+  },
+  {
+    "nombre": "Valentina Gómez",
+    "profesion": "Psicóloga",
+    "ciudad": "Montevideo",
+    "email": "valen@mente.com",
+    "telefono": "+598 91 111 222",
+    "foto":"https://cdn.pixabay.com/photo/2021/02/12/10/33/woman-6008055_1280.jpg"
+  },
+  {
+    "nombre": "Carlos López",
+    "profesion": "Electricista",
+    "ciudad": "Rivera",
+    "email": "carlos@energia.com",
+    "telefono": "+598 95 333 444",
+    "foto":"https://cdn.pixabay.com/photo/2024/07/11/22/49/man-8889170_1280.jpg"
+  },
+  {
+    "nombre": "Esteban Duarte",
+    "profesion": "Diseño Gráfico",
+    "ciudad": "Canelones",
+    "email": "sofia@crea.com",
+    "telefono": "+598 96 777 888",
+    "foto":"https://cdn.pixabay.com/photo/2022/11/21/15/47/business-7607426_1280.jpg"
+  },
+  {
+    "nombre": "Federico Silva",
+    "profesion": "Ingeniero Civil",
+    "ciudad": "Salto",
+    "email": "fede@infra.com",
+    "telefono": "+598 92 987 654",
+    "foto":"https://cdn.pixabay.com/photo/2020/03/12/13/40/engineer-4925119_1280.jpg"
+  },
+  {
+    "nombre": "Gabriela Torres",
+    "profesion": "Maestra",
+    "ciudad": "Paysandú",
+    "email": "gabriela@educa.com",
+    "telefono": "+598 91 555 666",
+    "foto":"https://cdn.pixabay.com/photo/2024/08/31/05/47/ai-generated-9010549_1280.png"
+  },
+  {
+    "nombre": "Martín Ruiz",
+    "profesion": "Veterinario",
+    "ciudad": "Maldonado",
+    "email": "martin@animal.com",
+    "telefono": "+598 90 888 999",
+    "foto":"https://cdn.pixabay.com/photo/2024/01/20/06/06/ai-generated-8520391_1280.png"
+  }
+]

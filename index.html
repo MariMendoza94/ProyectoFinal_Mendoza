@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Buscador de Profesionales</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css"/>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css"/>
+  <link rel="stylesheet" href="style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/toastify-js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/luxon@3.4.4/build/global/luxon.min.js" defer></script>
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <header>
+  <img src="image/logo.jpeg" alt="Logo" class="logo" />
+    <h1>Buscador de Profesionales</h1>
+    <p class="subtitulo">Esta es tu herramienta para buscar a los mejores profesionales</p>
+  </header>
+
+  <section class="filtros">
+    <select id="filtroCiudad">
+      <option value="">Filtrar por Ciudad</option>
+    </select>
+
+    <select id="filtroProfesion">
+      <option value="">Filtrar por Profesión</option>
+    </select>
+
+    <button id="btnFiltrar">Buscar</button>
+    <button id="btnLimpiar">Limpiar</button>
+  </section>
+
+  <main>
+    <div id="contenedor" class="tarjetas"></div>
+  </main>
+
+  <div id="datos" class="datos hidden">
+    <div class="datos-contenido">
+      <span id="cerrarDatos" class="cerrar">&times;</span>
+      <img id="datosFoto" class="datos-foto" src="" alt="Foto profesional" />
+      <h2 id="datosNombre"></h2>
+      <p id="datosProfesion"></p>
+      <p id="datosCiudad"></p>
+      <p id="datosEmail"></p>
+      <p id="datosTelefono"></p>
+
+      <div class="comentarios">
+        <h3>Comentarios</h3>
+        <textarea id="nuevoComentario" placeholder="Escribe tu comentario aquí..."></textarea>
+        <button id="btnAgregarComentario">Agregar comentario</button>
+        <ul id="listaComentarios"></ul>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <h3>Incluye tus servicios contactándonos</h3>
+    <p>📧 contacprofesionles@gmail.com</p>
+    <p>📞 <a href="https://wa.me/97302790 " target="_blank">  +598 97 302 790  </a> </p>
+    <p>📍 Av. Ventura Alegre, Maldonado</p>
+  </footer>
+</body>
+</html>
