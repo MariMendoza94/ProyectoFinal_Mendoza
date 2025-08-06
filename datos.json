@@ -81,7 +81,8 @@
   },
    {
     "nombre": "Doctor Pedro Gómez", 
-    "categoria": "medicina", 
+    "profesion":"Medicina", 
+    "ciudad": "Maldonado",
     "email": "pedro@docmedgeneral.com",
     "telefono": "+598 95 212 465",
     "foto":"https://media.istockphoto.com/id/2205091219/photo/portrait-of-smiling-doctor-with-folded-arms-and-stethoscope.webp?s=2048x2048&w=is&k=20&c=IwHdd3VptmDvxOyuuoIzuYC9BAkGmmBn2fRc5jS5gx4="
