@@ -57,7 +57,7 @@
   },
   {
     "nombre": "Lic. José Pérez",
-    "categoria": "Psicología",
+    "profesion": "Psicología",
     "ciudad": "Salto",
     "email": "licjose@saludprepaga.com",
     "telefono": "+598 98 465 754",
@@ -65,7 +65,7 @@
   },
   {
     "nombre": "Ing. Laura Fernández",
-    "categoria": "Ingeniería Civil",
+    "profesion": "Ingeniería Civil",
     "ciudad": "Paysandú",
     "email": "lucia@diseño.com",
     "telefono": "+598 94 123 456",
@@ -73,7 +73,7 @@
   },
    {
     "nombre": "Doc. David Alejandro Saltos",
-    "categoria": "Doctor cardiologo",
+    "profesion": "Cardiologia",
     "ciudad": "Montevideo",
     "email": "dasaltos@cardiosalud.com",
     "telefono": "+598 96 546 324",
